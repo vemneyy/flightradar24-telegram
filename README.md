@@ -1,4 +1,4 @@
-# Flight Tracker Bot
+![image](https://github.com/vemneyy/flightradar24-telegram/assets/78843201/36b0ae01-a5f3-4b05-b5cf-982c058a09fc)# Flight Tracker Bot
 
 This is a Telegram bot that utilizes the Flightradar24 API to provide real-time information about flights. The bot can handle user queries for specific flight numbers and provide details about flights near the user's location.
 
@@ -23,9 +23,10 @@ This is a Telegram bot that utilizes the Flightradar24 API to provide real-time 
 - **Nearby Flights**: Share your location, and the bot will provide information about aircraft near you.
 
 ## Screenshots
-- Aircraft Photo
-- Flight Path Map
-- Flight Graph
+- ![Message](![image](https://github.com/vemneyy/flightradar24-telegram/assets/78843201/17e1efd0-62fb-4bfc-8a43-f6d0eb1b5b1a))  
+- ![Aircraft Photo](![image](https://github.com/vemneyy/flightradar24-telegram/assets/78843201/f4241f1c-97b9-4624-8042-b4186caf80eb))  
+- ![Flight Path Map](![image](https://github.com/vemneyy/flightradar24-telegram/assets/78843201/4229d389-49cb-48b0-8f52-b08dd4062d74))  
+- ![Flight Graph](![image](https://github.com/vemneyy/flightradar24-telegram/assets/78843201/33cc5dd8-c211-4d94-9240-b1d8d1ab8d3c))  
 
 ## Important Note
 - This bot relies on the Flightradar24 API, and some features may be limited based on the API's availability and restrictions.
