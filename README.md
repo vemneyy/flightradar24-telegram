@@ -6,7 +6,7 @@ This is a Telegram bot that utilizes the Flightradar24 API to provide real-time 
 - Python 3.6 or higher
 - Required libraries can be installed using:
   ```bash
-  pip install telebot flightradar24 folium matplotlib pillow
+  pip install telebot FlightRadarAPI folium matplotlib pillow selenium
   ```
 
 ## Setup
