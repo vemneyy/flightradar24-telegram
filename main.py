@@ -212,6 +212,7 @@ def creating_map(flight_details, current_flight):
 
     # Remove zoom in/out signs
     flight_map.options.update({'zoomControl': False})
+    flight_map.options.update({'attributionControl': False})
 
     # Get coordinates for map scaling
     flight_map.fit_bounds([(all_lats.min(), all_lons.min()), (all_lats.max(), all_lons.max())])
