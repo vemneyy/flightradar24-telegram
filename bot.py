@@ -15,6 +15,7 @@ from formatting import format_flight_details, format_flight_details_location
 logger = logging.getLogger(__name__)
 
 load_dotenv()
+
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 if not TOKEN:
     raise RuntimeError("TELEGRAM_BOT_TOKEN not set")
