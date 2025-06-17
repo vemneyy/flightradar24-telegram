@@ -11,7 +11,7 @@ This is a Telegram bot that utilizes the Flightradar24 API to provide real-time 
 
 ## Setup
 1. Obtain a Telegram Bot Token by talking to [@BotFather](https://t.me/BotFather) on Telegram.
-2. Replace `"token"` with your actual Telegram Bot Token in the code.
+2. Export your token as an environment variable `TELEGRAM_BOT_TOKEN` before starting the bot.
 
 ## How to Use
 1. Start the bot.

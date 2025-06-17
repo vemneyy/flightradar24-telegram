@@ -1,0 +1,6 @@
+FlightRadar24
+pytelegrambotapi
+folium
+matplotlib
+numpy
+Pillow
