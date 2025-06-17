@@ -6,12 +6,13 @@ This is a Telegram bot that utilizes the Flightradar24 API to provide real-time 
 - Python 3.6 or higher
 - Required libraries can be installed using:
   ```bash
-  pip install telebot FlightRadarAPI folium matplotlib pillow selenium
+  pip install -r requirements.txt
   ```
 
 ## Setup
 1. Obtain a Telegram Bot Token by talking to [@BotFather](https://t.me/BotFather) on Telegram.
-2. Replace `"token"` with your actual Telegram Bot Token in the code.
+2. Copy `.env.example` to `.env` and add your token under `TELEGRAM_BOT_TOKEN`.
+   Optional credentials for FR24 can be added as `FR24_USERNAME` and `FR24_PASSWORD`.
 
 ## How to Use
 1. Start the bot.
