@@ -4,3 +4,4 @@ folium
 matplotlib
 numpy
 Pillow
+python-dotenv
